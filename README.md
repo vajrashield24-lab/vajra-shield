@@ -1,1 +1,2 @@
-# vajra-shield
+[index.html](https://github.com/user-attachments/files/29137036/index.html)
+<!DOCTYPE html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Vajra Shield</title></head><body><h1>Vajra Shield</h1><p>India's Trusted Workforce Marketplace</p><p>English | हिंदी | मराठी</p><a href='worker-registration.html'>Register Worker</a> | <a href='post-job.html'>Post Job</a> | <a href='contact.html'>Contact</a></body></html>
